@@ -1,0 +1,1 @@
+Virtual robot is project attempting to control and teach robot manipulator by observing human behavior in virtual world. 
